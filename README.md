@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Ahmet.
 - Third grade Computer Engineering student at Dokuz Eylül University (İzmir, Turkey)
-- I have developed many individual and group projects in different programming languages and environments. I hope it helps and guides you.
+- I have developed many individual and group projects in different programming languages and environments. 
+- I hope they help and guide you.
 - 👀 Nowadays, I’m interested in Mobile Game Development with Unity.
 - 📫 https://tr.linkedin.com/in/ahmet-bulur
 
