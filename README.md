@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ahmetbulur
-- Third grade computer engineering student at Dokuz Eylül University
+- Third grade computer engineering student at Dokuz Eylül University (İzmir, Turkey)
 - I have developed many individual and group projects. I hope it helps and guides you.
 - 👀 Nowadays, I’m interested in Mobile Game Development with Unity.
-- 📫 https://tr.linkedin.com/in/ahmet-bulur | instagram.com/ahmettbulurr 
+- 📫 instagram.com/ahmettbulurr | https://tr.linkedin.com/in/ahmet-bulur
 
 <!---
 ahmetbulur/ahmetbulur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
