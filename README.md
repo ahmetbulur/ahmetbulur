@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ahmetbulur
+- 👋 Hi, I’m Ahmet.
 - Third grade computer engineering student at Dokuz Eylül University (İzmir, Turkey)
 - I have developed many individual and group projects. I hope it helps and guides you.
 - 👀 Nowadays, I’m interested in Mobile Game Development with Unity.
