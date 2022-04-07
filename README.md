@@ -1,19 +1,14 @@
-- 👋 Hi, I’m Ahmet.
-- Third grade Computer Engineering student at Dokuz Eylül University (İzmir, Turkey)
+- Hi 👋, I'm Ahmet
+- Four grade Computer Engineering student at Dokuz Eylül University (İzmir, Turkey)
 - I have developed many individual and group projects in different programming languages and environments. I hope they help and guide you.
 - 👀 Nowadays, I’m interested in Mobile Game Development with Unity.
-- 📫 https://tr.linkedin.com/in/ahmet-bulur
-
-<h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">game developer</h3>
+- 📫 How to reach me **bulurahmet@outlook.com**
 
 - 🔭 I’m currently working on **Mobile Game Development with Unity**
 
 - 🌱 I’m currently learning **Game Development and 3D Modelling**
 
 - 👨‍💻 Game(s) that I developed is/are available at [https://play.google.com/store/apps/dev?id=8504415132485248120](https://play.google.com/store/apps/dev?id=8504415132485248120)
-
-- 📫 How to reach me **bulurahmet@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
